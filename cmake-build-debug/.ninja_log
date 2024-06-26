@@ -1,0 +1,6 @@
+# ninja log v6
+2	441	7410693819739119	CMakeFiles/Monster_and_Hero.dir/main.cpp.obj	2f941a2cc4116107
+2	234	7410697350876867	build.ninja	9a967aa3598fc3ca
+4	411	7410695308135084	CMakeFiles/Monster_and_Hero.dir/character.cpp.obj	f86408550b10b949
+411	520	7410695312206301	Monster_and_Hero.exe	80496c27320b433b
+2	226	7410697350876867	build.ninja	9a967aa3598fc3ca
